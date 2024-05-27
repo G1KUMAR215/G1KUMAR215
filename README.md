@@ -2,8 +2,6 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-G1KumarR)](https://www.youtube.com/channel/@G1KumarR)
 [![Linkedin Badge](https://img.shields.io/badge/-G1KUMAR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reddy-vari-kumar-579bb4100/
-[![Website Badge](https://img.shields.io/badge/StackOverflow-G1KUMAR-yellow)]()
-[![Website Badge](https://img.shields.io/badge/WebSite-G1KUMAR-green)]()
 
 I'm
 Full Stack Solution Architect

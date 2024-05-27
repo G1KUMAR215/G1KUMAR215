@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-R JEEVAN KUMAR-red)](https://www.youtube.com/@G1Kumar)
 [![Linkedin Badge](https://img.shields.io/badge/-R JEEVAN KUMAR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reddy-vari-kumar-579bb4100/)](https://www.linkedin.com/in/reddy-vari-kumar-579bb4100//)
 
 I'm

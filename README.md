@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-G1KumarR)](https://www.youtube.com/channel/@G1KumarR)
+[![YouTube Badge](https://www.youtube.com/channel/@G1KumarR)
 [![Linkedin Badge](https://img.shields.io/badge/-G1KUMAR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reddy-vari-kumar-579bb4100/
 
 I'm

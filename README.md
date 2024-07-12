@@ -11,7 +11,7 @@ The crossover between design and programming has always been of interest to me, 
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">    
+  <a href="https://github.com/G1KUMAR215/github-profile-trophy">    
     <img src="https://github-profile-trophy.vercel.app/?username=G1KUMAR215&column=7"/>
   </a>
 </div>
@@ -28,7 +28,7 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently not working at any where...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

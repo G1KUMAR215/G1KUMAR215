@@ -39,7 +39,8 @@
 
 <!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME) -->
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=dark&margin-w=10&margin-h=10)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=onedark)
+
 
 
 
@@ -58,9 +59,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/g1kumar.in)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g1kumar_ind)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918309021926)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/g1kumarr/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/G1KUMAR-INDIA)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{G1KUMAR_INDIA}/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=G1KUMAR-INDIA&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 

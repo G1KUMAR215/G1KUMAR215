@@ -35,11 +35,8 @@
 
 
 
-## 🏆 GitHub Trophies:
-
-<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME) -->
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=onedark)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=onedark&no-frame=true&row=1)
 
 
 
@@ -53,14 +50,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/G1KUMAR_INDIA)
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddyjeevankumar1994@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:g1kumar215@gmail.com)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/G1KUMAR_INDIA)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/g1kumarr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/g1kumar.in)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g1kumar_ind)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918309021926)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/918501891921)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/g1kumarr/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/G1KUMAR-INDIA)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=G1KUMAR-INDIA&label=Profile%20Views&color=0e75b6&style=flat)

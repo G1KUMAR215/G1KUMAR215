@@ -36,7 +36,11 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=onedark&no-frame=true&row=1)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=G1KUMAR-INDIA&theme=onedark&no-frame=true&row=1&margin-w=15" />
+</p>
+
 
 
 
